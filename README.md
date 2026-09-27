@@ -6,7 +6,7 @@
 
 ---
 
-**ARCDVNpdf hadir sebagai solusi:**
+**ARCDVNpdf hadir:**
 - ✅ **100% Offline & Aman**: Dokumen Anda tidak pernah meninggalkan komputer Anda. Semua diproses langsung di *RAM* komputer lokal. Privasi terjamin mutlak!
 - ✅ **Sangat Ringan (Zero-Cache)**: Begitu aplikasi ditutup, sistem operasi langsung mengembalikan 100% memori. Tidak ada proses tersembunyi yang tertinggal berjalan (*No background daemons*), dan tidak ada file sampah (temp) yang menumpuk. Performa PC tetap secepat kilat!
 - ✅ **User-Friendly (Terintegrasi GUI Windows)**: Walaupun berbentuk aplikasi terminal (CLI), ARCDVNpdf **terintegrasi penuh dengan Jendela File (*GUI File Picker*)**. Anda tidak perlu mengetik *path* lokasi folder yang panjang; cukup tekan `Enter` dan jendela pemilihan file Windows (seperti saat fitur *Open/Save As* di Word) akan langsung terbuka.
@@ -51,7 +51,7 @@ ARCDVNpdf hadir dengan menu interaktif dan fungsionalitas super cepat:
 3. **Klik ganda (*Double-click*)** pada file `install.bat` dan tunggu proses pengunduhan dependensi *library* pintar selesai secara otomatis.
 4. Setelah instalasi selesai tertulis sukses, tutup jendela CMD tersebut.
 5. Buka **Command Prompt (CMD) atau PowerShell** baru.
-6. Ketik perintah ajaib ini:
+6. Ketik perintah ini:
 ```cmd
    arcdvnpdf
    ```
@@ -89,4 +89,4 @@ arcdvnpdf doctor
 Ingin menghapusnya? Cukup klik ganda pada `uninstall.bat`. Aplikasi akan tercabut dengan bersih dan cepat, tanpa meninggalkan jejak kotor (*registry/cache*) di PC Anda.
 
 ---
-*Dibuat untuk kecepatan dan kemudahan Anda. Karena keamanan dan privasi data Anda adalah yang utama.*
+
